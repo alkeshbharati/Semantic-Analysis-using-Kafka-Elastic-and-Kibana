@@ -1,6 +1,6 @@
 Steps to run the code:
 
-1. We are using Kafka streaming,elastic search and kibana for visualisation using python    
+1. I am using Kafka streaming,elastic search and kibana for visualisation using python    
    in pycharm.
 
 2. Start zookeeper, elastic search and kibana in terminal if you are using Mac.
